@@ -12,6 +12,7 @@ IP13 - Oraș, Regiune, Țară
 ...
 IP1N - Oraș, Regiune, Țară
 ```
+![](link-to-image)
 
 ### Ruta către IP2
 ```
@@ -21,6 +22,7 @@ IP23 - Oraș, Regiune, Țară
 ...
 IP2N - Oraș, Regiune, Țară
 ```
+![](link-to-image)
 
 ### Ruta către IP3
 ```
@@ -30,7 +32,7 @@ IP33 - Oraș, Regiune, Țară
 ...
 IP3N - Oraș, Regiune, Țară
 ```
-
+![](link-to-image)
 
 ## 2. Reliable UDP
 
