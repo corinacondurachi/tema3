@@ -13,6 +13,9 @@ IP13 - Oraș, Regiune, Țară
 IP1N - Oraș, Regiune, Țară
 ```
 
+![](https://github.com/nlp-unibuc/tema-3-team/blob/master/au.png)
+
+
 ### Ruta către IP2
 ```
 IP21 - Oraș, Regiune, Țară
@@ -21,6 +24,9 @@ IP23 - Oraș, Regiune, Țară
 ...
 IP2N - Oraș, Regiune, Țară
 ```
+![](https://github.com/nlp-unibuc/tema-3-team/blob/master/kr.png)
+![](https://github.com/nlp-unibuc/tema-3-team/blob/master/kr2.png)
+
 
 ### Ruta către IP3
 ```
@@ -30,7 +36,7 @@ IP33 - Oraș, Regiune, Țară
 ...
 IP3N - Oraș, Regiune, Țară
 ```
-
+![](https://github.com/nlp-unibuc/tema-3-team/blob/master/nz.png)
 
 ## 2. Reliable UDP
 
